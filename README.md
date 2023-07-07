@@ -1,5 +1,13 @@
-### AniMix Lock Viewport Rotation
-AniMix Lock Viewport Rotation can be really handy for 2D 3D & Hybrid Animation, Sculpting & Painting.
+### AniMix Lock
+AniMix Lock is being designed to help the user lock what they want to lock quickly and easily
+The list that is being worked on
+
+- Rotation - Working
+- Zoom
+- Pan
+- Camera
+- Cursor
+- Timeline Cursor 
 
 ***
 ### AniMix Hybrid Animation Addon. 
